@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BaiTap1</string>
+    <string-array name="tiente">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>VND</item>
+        <item>CNY</item>
+        <item>JPN</item>
+    </string-array>
+
+</resources>
